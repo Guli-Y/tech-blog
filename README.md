@@ -11,7 +11,6 @@
 - [floyhub - humans of machine learning](https://blog.floydhub.com/tag/humans-of-ml/)
 - [domino data lab](https://blog.dominodatalab.com/)
 - [doordash](https://doordash.engineering/category/data-science-and-machine-learning/)
-- [Dr.Dror](http://drorata.github.io/)
 
 # Useful articles
 - [colab-like-a-pro](https://towardsdatascience.com/10-tips-for-a-better-google-colab-experience-33f8fe721b82)
