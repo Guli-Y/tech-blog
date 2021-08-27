@@ -11,7 +11,7 @@
 - [floyhub - humans of machine learning](https://blog.floydhub.com/tag/humans-of-ml/)
 - [domino data lab](https://blog.dominodatalab.com/)
 - [doordash](https://doordash.engineering/category/data-science-and-machine-learning/)
-
 # Useful articles
 - [colab-like-a-pro](https://towardsdatascience.com/10-tips-for-a-better-google-colab-experience-33f8fe721b82)
 - [standford-DL-time-series](https://stanford.edu/~koenecke/files/Deep_Learning_for_Time_Series_Tutorial.pdf)
+- [CS 230 ― Deep Learning](https://stanford.edu/~shervine/teaching/cs-230/)
