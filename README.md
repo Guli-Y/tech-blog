@@ -11,6 +11,7 @@
 - [floyhub - humans of machine learning](https://blog.floydhub.com/tag/humans-of-ml/)
 - [domino data lab](https://blog.dominodatalab.com/)
 - [doordash](https://doordash.engineering/category/data-science-and-machine-learning/)
+- [MLmastery](https://machinelearningmastery.com/faq/single-faq/can-you-help-me-with-machine-learning-for-finance-or-the-stock-market/)
 # Useful articles
 - [colab-like-a-pro](https://towardsdatascience.com/10-tips-for-a-better-google-colab-experience-33f8fe721b82)
 - [standford-DL-time-series](https://stanford.edu/~koenecke/files/Deep_Learning_for_Time_Series_Tutorial.pdf)
