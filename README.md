@@ -12,7 +12,10 @@
 - [domino data lab](https://blog.dominodatalab.com/)
 - [doordash](https://doordash.engineering/category/data-science-and-machine-learning/)
 - [MLmastery](https://machinelearningmastery.com/faq/single-faq/can-you-help-me-with-machine-learning-for-finance-or-the-stock-market/)
-# Useful articles
+
+# books
+- [forecasting: principles and practice](https://otexts.com/fpp3/)
+# useful articles
 - [colab-like-a-pro](https://towardsdatascience.com/10-tips-for-a-better-google-colab-experience-33f8fe721b82)
 - [standford-DL-time-series](https://stanford.edu/~koenecke/files/Deep_Learning_for_Time_Series_Tutorial.pdf)
 - [CS 230 ― Deep Learning](https://stanford.edu/~shervine/teaching/cs-230/)
